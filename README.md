@@ -17,7 +17,7 @@ If the steps are follwed correctly, we can run our web interface from the follow
 ```http://localhost/item/menu.php``` which will lead us to our main menu.
 
 ## ER Diagram
-![ER_Diagram](img/ER_Diagram.pdf)
+![ER_Diagram](img/ER_Diagram.jpg)
 
 ## Demo
 
