@@ -20,10 +20,10 @@ If the steps are follwed correctly, we can run our web interface from the follow
 ![ER_Diagram](img/ER_Diagram.jpg)
 
 ## Demo
-
+![Demo](img/demo_db.gif)
 
 ## Credits
-Ribesh Joshi
-Nishchal Shrestha
-Ravi Badrachalam (Professor)
+Ribesh Joshi  
+Nishchal Shrestha  
+Ravi Badrachalam (Professor)  
 
